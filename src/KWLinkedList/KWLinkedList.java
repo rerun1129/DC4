@@ -48,9 +48,24 @@ public class KWLinkedList<E> {
         private Node<E> lastItemReturned;
         private int index;
 
-        public KWListIterator(int index) {
-            this.index = index;
+        public KWListIterator(int i){
+            if(i < 0 || i> size){
+                throw new IndexOutOfBoundsException("Invalid index " + i);
+            }
+
+            lastItemReturned = null;
+            if( i == size){
+                index = size;
+                nextItem = null;
+            }else {
+                nextItem = head;
+                for (index = 0; index<i; index++){
+                    nextItem = nextItem.next;
+                }
+            }
         }
+
+
 
         //인터페이스에서 지정한 메서드들
         @Override

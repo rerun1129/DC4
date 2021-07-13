@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90236d24-f60b-4d3c-a541-1b30eec5ff2f" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KWLinkedList/KWLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polynom2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polynom2/MySingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polynom2/Polynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polynom2/Term.java" afterDir="false" />
+    <list default="true" id="90236d24-f60b-4d3c-a541-1b30eec5ff2f" name="디폴트 변경 목록" comment="몰라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KWLinkedList/KWLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KWLinkedList/KWLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../국비2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="모듈" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -107,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1625841694822</updated>
     </task>
+    <task id="LOCAL-00001" summary="몰라">
+      <created>1626157819905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626157819905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +122,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="몰라" />
+    <option name="LAST_COMMIT_MESSAGE" value="몰라" />
   </component>
 </project>
